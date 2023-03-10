@@ -1,1 +1,1 @@
-chmod 007 hello  gives owner and group no permission but gives all other users permission
+chmod 753 hello gives permission to file hello in the format -rwxr-x-wx
