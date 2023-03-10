@@ -25,3 +25,7 @@ mv [[:upper]]* /tmp/u            a script that moves all files beginning with an
 ls -amvp        Write a command that lists all the files and directories of the current directory, separated by commas
 0 string SCHOOL school data
 !:mime school
+0 string SCHOOL School data
+!:mime School
+-
+Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
