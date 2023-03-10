@@ -1,1 +1,1 @@
-whoa am I
+displays users groups
