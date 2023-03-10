@@ -1,1 +1,1 @@
-chmod 753 hello gives permission to file hello in the format -rwxr-x-wx
+chmod --reference-olleh hello   references file hello to be in same mode as olleh
