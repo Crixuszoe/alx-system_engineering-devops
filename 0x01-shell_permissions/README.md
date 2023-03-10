@@ -1,1 +1,1 @@
-chmod u+x  adds execution permision to owner, u denotes owner/user
+chmod ug+x, o+r    execution permission to owner, group and read permission to other users
