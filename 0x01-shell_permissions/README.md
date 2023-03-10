@@ -1,1 +1,1 @@
-touch hello -create empty file
+chmod u+x  adds execution permision to owner, u denotes owner/user
