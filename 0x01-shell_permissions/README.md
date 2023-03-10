@@ -1,1 +1,1 @@
-chmod ugo+x hello  adds execution permission to owner, group and other users to the file hello
+chmod 007 hello  gives owner and group no permission but gives all other users permission
